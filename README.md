@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhvner
 - 👀 I’m interested in Data analysis and Deep Learning
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on fast fashion, sustainability projects
 - 📫 How to reach me szhanerz@gmail.com
 
 <!---
